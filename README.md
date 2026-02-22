@@ -18,6 +18,21 @@ This repository contains beginner Python programs created while learning core co
 - Python match-case
 - String handling
 
+## 4. Insurance Eligibility Checker
+This Python program checks whether a person can claim insurance based on:
+Gender
+Marital Status
+Age
+
+Logic
+Married → Eligible
+Male → Eligible if age > 30
+Female → Eligible if age > 25
+
+Skills Used
+Python input/output
+Conditional statements
+Boolean logic
 ---
 
 Learning step by step 🚀
